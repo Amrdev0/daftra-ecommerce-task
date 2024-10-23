@@ -11,7 +11,6 @@ This is a simple e-commerce API built with Laravel. It supports product listings
   - [Orders](#orders)
 - [Searching for Products](#searching-for-products)
 - [Testing](#testing)
-- [Usage](#usage)
 
 ## API Endpoints
 
